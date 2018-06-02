@@ -11,8 +11,8 @@ currentGrid = [0, 0, 0, 0,
 
 """Calculates the score : Keeps the best values at the top left corner of the grid"""
 scoreGrid = [50, 30, 20, 0,
-             30, 30, 10, 0,
-             20, 10, 10, 0,
+             30, 20, 10, 0,
+             20, 10, 0, 0,
              0, 0, 0, 0]
 
 """Directions"""
